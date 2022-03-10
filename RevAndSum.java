@@ -5,7 +5,14 @@ class RevAndSum{
     {
         Scanner sc = new Scanner(System.in);
 
-        int Number; 
+        int Number, Reverse = 0; 
         Number = sc.nextInt();
+
+        // int i = 0;
+        while(Number >= 0)
+        {  
+            Reverse = ;
+            
+        }
     }
 }
